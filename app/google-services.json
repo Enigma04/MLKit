@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "973223863481",
+    "firebase_url": "https://text-recognizer-8a649.firebaseio.com",
+    "project_id": "text-recognizer-8a649",
+    "storage_bucket": "text-recognizer-8a649.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973223863481:android:3892fae0802723ba",
+        "android_client_info": {
+          "package_name": "com.thestupidgamer.mlkit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "973223863481-nqbvhp5k5c8ekao6p4dmbucdn7lp36ra.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.thestupidgamer.mlkit",
+            "certificate_hash": "8ce72e748ccbf564b367c0e852e4f170db0b267a"
+          }
+        },
+        {
+          "client_id": "973223863481-3db0feojuqr29h0hblp4ig0bag9scgq1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_Pm-qqAh_TfGpxh4q0d_vP5cyva9JPAU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "973223863481-3db0feojuqr29h0hblp4ig0bag9scgq1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
